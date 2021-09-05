@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log("welcome raibow-test-cli");
+console.log("welcome raibow-test-cli !!!!");
