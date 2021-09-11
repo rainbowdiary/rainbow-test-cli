@@ -1,6 +1,6 @@
 {
   "name": "rainbow-test-cli",
-  "version": "1.0.0",
+  "version": "1.1.3",
   "description": "脚手架开发",
   "bin": {
     "rainbow-test-cli": "bin/index.js"
@@ -11,12 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rainbowdiary/rainbow-test-cli.git"
+    "url": "https://github.com/rainbowdiary/rainbow-test-cli.git"
   },
   "author": "rainbowdiary",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rainbowdiary/rainbow-test-cli/issues"
   },
-  "homepage": "https://github.com/rainbowdiary/rainbow-test-cli#readme"
+  "homepage": "https://github.com/rainbowdiary/rainbow-test-cli#readme",
+  "dependencies": {
+    "rainbow-test": "^1.1.0"
+  }
 }
